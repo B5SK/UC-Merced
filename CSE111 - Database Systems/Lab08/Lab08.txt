@@ -1,0 +1,182 @@
+The General Idea of the use of Index is that it must be used only for finding data and not to be included when doing any queries other than finding data, such as copying data from table to table with index. The reason the included index takes so long is that it tags along with the query processes as it also needs to be either updated or modified for the sake of its function. A good example is the copying of the tables from Exercise 3. 
+
+The difference between the lab3 queries with index and the lab3 queries without the index is that the queries with the index is much faster due to the fact that it does not search the entire table. However there are some errors in my queries or efficiency issues because despite having index and as well as not having it, it took a very long time to finish. 
+
+
+Query Execution Time is in Milliseconds
+
+-Insert from Customer to Customer_Index-
+Query Execution Time: 1194
+
+-Insert from Customer to Customer_NoIndex-
+Query Execution Time: 171
+
+
+-Insert from Supplier to Supplier_Index-
+Query Execution Time: 346
+
+-Insert from Supplier to Supplier_NoIndex-
+Query Execution Time: 105
+
+
+-Insert from LineItem to LineItem_Index-
+Query Execution Time: 942
+
+-Insert from LineItem to LineItem_NoIndex-
+Query Execution Time: 314
+
+
+-Insert from Orders to Orders_Index-
+Query Execution Time: 8806
+
+-Insert from Orders to Orders_NoIndex-
+Query Execution Time: 225
+
+
+Create Customer_nation_Index
+Query Execution Time: 1288
+
+
+Create lineitem_returnflag_index
+Query Execution Time: 7183
+
+
+Create supplier_balance_index
+Query Execution Time: 209
+
+
+Lab3: Query 1 with Index
+Query Execution Time: 0
+
+
+Lab3: Query 2 with Index
+Query Execution Time: 0
+
+
+Lab3: Query 3 with Index
+Query Execution Time: 422
+
+
+Lab3: Query 4 with Index
+Query Execution Time: 11396
+
+
+Lab3: Query 5 with Index
+Query Execution Time: 28
+
+
+Lab3: Query 6 with Index
+Query Execution Time: 118
+
+
+Lab3: Query 7 with Index
+Query Execution Time: 4151
+
+
+Lab3: Query 8 with Index
+Query Execution Time: 3
+
+
+Lab3: Query 9 with Index
+Query Execution Time: 2
+
+
+Lab3: Query 10 with Index
+Query Execution Time: 800132
+
+
+Lab3: Query 11 with Index
+Query Execution Time: 193799
+
+
+Lab3: Query 12 with Index
+Query Execution Time: 10381
+
+
+Lab3: Query 13 with Index
+Query Execution Time: 17
+
+
+Lab3: Query 14 with Index
+Query Execution Time: 67460
+
+
+Lab3: Query 15 with Index
+Query Execution Time: 170214
+
+
+Lab3: Query 1 with noIndex
+Query Execution Time: 8
+
+
+Lab3: Query 2 with noIndex
+Query Execution Time: 1
+
+
+Lab3: Query 3 with noIndex
+Query Execution Time: 274
+
+
+Lab3: Query 4 with noIndex
+Query Execution Time: 11389
+
+
+Lab3: Query 5 with noIndex
+Query Execution Time: 24
+
+
+Lab3: Query 6 with noIndex
+Query Execution Time: 160
+
+
+Lab3: Query 7 with noIndex
+Query Execution Time: 4114
+
+
+Lab3: Query 8 with noIndex
+Query Execution Time: 3
+
+
+Lab3: Query 9 with noIndex
+Query Execution Time: 1
+
+
+Lab3: Query 10 with noIndex
+Query Execution Time: 2300
+
+
+Lab3: Query 11 with noIndex
+Query Execution Time: 910573
+
+
+Lab3: Query 12 with noIndex
+Query Execution Time: 10328
+
+
+Lab3: Query 13 with noIndex
+Query Execution Time: 9
+
+
+Lab3: Query 14 with noIndex
+Query Execution Time: 144
+
+
+Lab3: Query 15 with noIndex
+Query Execution Time: 172818
+
+
+Update LineItem_Index
+Query Execution Time: 26528
+
+
+Update LineItem_noIndex
+Query Execution Time: 12926
+
+
+Update Supplier_index
+Query Execution Time: 601
+
+
+Update Supplier_noindex
+Query Execution Time: 276
+

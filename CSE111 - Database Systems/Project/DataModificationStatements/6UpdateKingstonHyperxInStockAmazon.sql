@@ -1,0 +1,1 @@
+select s_suppid from supplier where s_name = 'Amazon'
