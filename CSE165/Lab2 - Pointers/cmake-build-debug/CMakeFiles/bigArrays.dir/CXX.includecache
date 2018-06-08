@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/B5SK/Documents/UC Merced/Courses/CSE165/Lab2 - Pointers/FillUp.h
+
+C:/Users/B5SK/Documents/UC Merced/Courses/CSE165/Lab2 - Pointers/bigArrays.cpp
+iostream
+-
+FillUp.h
+C:/Users/B5SK/Documents/UC Merced/Courses/CSE165/Lab2 - Pointers/FillUp.h
+

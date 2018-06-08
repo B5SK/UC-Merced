@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/B5SK/Documents/UC Merced/Courses/CSE165/Lab8 - Abstract Classes/Circle.h
+
+C:/Users/B5SK/Documents/UC Merced/Courses/CSE165/Lab8 - Abstract Classes/Data.h
+vector
+-
+iostream
+-
+Sortable.h
+C:/Users/B5SK/Documents/UC Merced/Courses/CSE165/Lab8 - Abstract Classes/Sortable.h
+
+C:/Users/B5SK/Documents/UC Merced/Courses/CSE165/Lab8 - Abstract Classes/Sortable.h
+
+C:/Users/B5SK/Documents/UC Merced/Courses/CSE165/Lab8 - Abstract Classes/sortingCircles.cpp
+iostream
+-
+Data.h
+C:/Users/B5SK/Documents/UC Merced/Courses/CSE165/Lab8 - Abstract Classes/Data.h
+Circle.h
+C:/Users/B5SK/Documents/UC Merced/Courses/CSE165/Lab8 - Abstract Classes/Circle.h
+

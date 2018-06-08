@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/B5SK/Documents/UC Merced/Courses/CSE165/Lab7 - Inheritance/Animal.h
+iostream
+-
+string
+-
+vector
+-
+
+C:/Users/B5SK/Documents/UC Merced/Courses/CSE165/Lab7 - Inheritance/Dog.h
+iostream
+-
+string
+-
+Animal.h
+C:/Users/B5SK/Documents/UC Merced/Courses/CSE165/Lab7 - Inheritance/Animal.h
+
+C:/Users/B5SK/Documents/UC Merced/Courses/CSE165/Lab7 - Inheritance/MoreOnInheritance.cpp
+Dog.h
+C:/Users/B5SK/Documents/UC Merced/Courses/CSE165/Lab7 - Inheritance/Dog.h
+display.h
+C:/Users/B5SK/Documents/UC Merced/Courses/CSE165/Lab7 - Inheritance/display.h
+iostream
+-
+vector
+-
+
+C:/Users/B5SK/Documents/UC Merced/Courses/CSE165/Lab7 - Inheritance/display.h
+iostream
+-
+vector
+-
+

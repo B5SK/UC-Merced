@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/B5SK/Documents/UC Merced/Courses/CSE165/Lab8 - Abstract Classes/ADT.h
+
+C:/Users/B5SK/Documents/UC Merced/Courses/CSE165/Lab8 - Abstract Classes/ADTs.cpp
+iostream
+-
+Derived.h
+C:/Users/B5SK/Documents/UC Merced/Courses/CSE165/Lab8 - Abstract Classes/Derived.h
+
+C:/Users/B5SK/Documents/UC Merced/Courses/CSE165/Lab8 - Abstract Classes/Derived.h
+iostream
+-
+ADT.h
+C:/Users/B5SK/Documents/UC Merced/Courses/CSE165/Lab8 - Abstract Classes/ADT.h
+

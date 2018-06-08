@@ -1,0 +1,1 @@
+Spell my name using GlutApp Point object

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/B5SK/Documents/UC Merced/Courses/CSE165/Lab7.4 - Polymorphism/Animal.h
+iostream
+-
+
+C:/Users/B5SK/Documents/UC Merced/Courses/CSE165/Lab7.4 - Polymorphism/Cat.h
+Animal.h
+C:/Users/B5SK/Documents/UC Merced/Courses/CSE165/Lab7.4 - Polymorphism/Animal.h
+
+C:/Users/B5SK/Documents/UC Merced/Courses/CSE165/Lab7.4 - Polymorphism/Dog.h
+Animal.h
+C:/Users/B5SK/Documents/UC Merced/Courses/CSE165/Lab7.4 - Polymorphism/Animal.h
+
+C:/Users/B5SK/Documents/UC Merced/Courses/CSE165/Lab7.4 - Polymorphism/catsDogs.cpp
+iostream
+-
+Cat.h
+C:/Users/B5SK/Documents/UC Merced/Courses/CSE165/Lab7.4 - Polymorphism/Cat.h
+Dog.h
+C:/Users/B5SK/Documents/UC Merced/Courses/CSE165/Lab7.4 - Polymorphism/Dog.h
+

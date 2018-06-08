@@ -1,0 +1,5 @@
+C:/Users/B5SK/Documents/UC Merced/Courses/CSE165/Lab9 - A Brief Lab on Time/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/B5SK/Documents/UC Merced/Courses/CSE165/Lab9 - A Brief Lab on Time/cmake-build-debug/CMakeFiles/times.dir
+C:/Users/B5SK/Documents/UC Merced/Courses/CSE165/Lab9 - A Brief Lab on Time/cmake-build-debug/CMakeFiles/timeAngles.dir
+C:/Users/B5SK/Documents/UC Merced/Courses/CSE165/Lab9 - A Brief Lab on Time/cmake-build-debug/CMakeFiles/timeCoords.dir
+C:/Users/B5SK/Documents/UC Merced/Courses/CSE165/Lab9 - A Brief Lab on Time/cmake-build-debug/CMakeFiles/edit_cache.dir

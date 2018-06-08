@@ -1,0 +1,4 @@
+C:/Users/B5SK/Documents/UC Merced/Courses/CSE165/Lab4 - Rectangles/cmake-build-debug/CMakeFiles/Lab4___Rectangles.dir
+C:/Users/B5SK/Documents/UC Merced/Courses/CSE165/Lab4 - Rectangles/cmake-build-debug/CMakeFiles/rectangles.dir
+C:/Users/B5SK/Documents/UC Merced/Courses/CSE165/Lab4 - Rectangles/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/B5SK/Documents/UC Merced/Courses/CSE165/Lab4 - Rectangles/cmake-build-debug/CMakeFiles/rebuild_cache.dir

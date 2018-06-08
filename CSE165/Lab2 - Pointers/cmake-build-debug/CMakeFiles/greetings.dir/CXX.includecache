@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/B5SK/Documents/UC Merced/Courses/CSE165/Lab2 - Pointers/Greet.h
+string
+-
+
+C:/Users/B5SK/Documents/UC Merced/Courses/CSE165/Lab2 - Pointers/greetings.cpp
+iostream
+-
+Greet.h
+C:/Users/B5SK/Documents/UC Merced/Courses/CSE165/Lab2 - Pointers/Greet.h
+

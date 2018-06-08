@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/B5SK/Documents/UC Merced/Courses/CSE165/Lab8 - Abstract Classes/Data.h
+vector
+-
+
+C:/Users/B5SK/Documents/UC Merced/Courses/CSE165/Lab8 - Abstract Classes/intSort.cpp
+iostream
+-
+Data.h
+C:/Users/B5SK/Documents/UC Merced/Courses/CSE165/Lab8 - Abstract Classes/Data.h
+

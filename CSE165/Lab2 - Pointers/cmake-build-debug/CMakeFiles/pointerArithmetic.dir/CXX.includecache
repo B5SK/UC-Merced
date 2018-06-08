@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/B5SK/Documents/UC Merced/Courses/CSE165/Lab2 - Pointers/Input.h
+
+C:/Users/B5SK/Documents/UC Merced/Courses/CSE165/Lab2 - Pointers/pointerArithmetic.cpp
+iostream
+-
+Input.h
+C:/Users/B5SK/Documents/UC Merced/Courses/CSE165/Lab2 - Pointers/Input.h
+

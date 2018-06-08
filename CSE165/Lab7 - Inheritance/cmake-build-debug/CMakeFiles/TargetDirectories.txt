@@ -1,0 +1,5 @@
+C:/Users/B5SK/Documents/UC Merced/Courses/CSE165/Lab7 - Inheritance/cmake-build-debug/CMakeFiles/circles.dir
+C:/Users/B5SK/Documents/UC Merced/Courses/CSE165/Lab7 - Inheritance/cmake-build-debug/CMakeFiles/animals.dir
+C:/Users/B5SK/Documents/UC Merced/Courses/CSE165/Lab7 - Inheritance/cmake-build-debug/CMakeFiles/MoreOnInheritance.dir
+C:/Users/B5SK/Documents/UC Merced/Courses/CSE165/Lab7 - Inheritance/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/B5SK/Documents/UC Merced/Courses/CSE165/Lab7 - Inheritance/cmake-build-debug/CMakeFiles/rebuild_cache.dir

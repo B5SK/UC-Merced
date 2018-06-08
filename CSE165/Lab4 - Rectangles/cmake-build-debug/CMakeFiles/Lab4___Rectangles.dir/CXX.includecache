@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/B5SK/Documents/UC Merced/Courses/CSE165/Lab4 - Rectangles/Vec.h
+iostream
+-
+
+C:/Users/B5SK/Documents/UC Merced/Courses/CSE165/Lab4 - Rectangles/vectors.cpp
+iostream
+-
+Vec.h
+C:/Users/B5SK/Documents/UC Merced/Courses/CSE165/Lab4 - Rectangles/Vec.h
+

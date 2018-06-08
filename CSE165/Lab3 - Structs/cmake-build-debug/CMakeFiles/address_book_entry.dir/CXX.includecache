@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/B5SK/Documents/UC Merced/Courses/CSE165/Lab3 - Structs/Entry.h
+iostream
+-
+string
+-
+
+C:/Users/B5SK/Documents/UC Merced/Courses/CSE165/Lab3 - Structs/address_book_entry.cpp
+iostream
+-
+Entry.h
+C:/Users/B5SK/Documents/UC Merced/Courses/CSE165/Lab3 - Structs/Entry.h
+

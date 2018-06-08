@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/B5SK/Documents/UC Merced/Courses/CSE165/Lab5 - Circles/GenerateCircleData.h
+Vec.h
+C:/Users/B5SK/Documents/UC Merced/Courses/CSE165/Lab5 - Circles/Vec.h
+math.h
+-
+
+C:/Users/B5SK/Documents/UC Merced/Courses/CSE165/Lab5 - Circles/Vec.h
+
+C:/Users/B5SK/Documents/UC Merced/Courses/CSE165/Lab5 - Circles/circleParam.cpp
+iostream
+-
+vector
+-
+cmath
+-
+GenerateCircleData.h
+C:/Users/B5SK/Documents/UC Merced/Courses/CSE165/Lab5 - Circles/GenerateCircleData.h
+

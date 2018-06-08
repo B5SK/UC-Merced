@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/B5SK/Documents/UC Merced/Courses/CSE165/Lab9 - A Brief Lab on Time/Time.h
+
+C:/Users/B5SK/Documents/UC Merced/Courses/CSE165/Lab9 - A Brief Lab on Time/timeCoords.cpp
+iostream
+-
+iomanip
+-
+math.h
+-
+Time.h
+C:/Users/B5SK/Documents/UC Merced/Courses/CSE165/Lab9 - A Brief Lab on Time/Time.h
+

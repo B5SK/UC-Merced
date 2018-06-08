@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/B5SK/Documents/UC Merced/Courses/CSE165/Lab7 - Inheritance/Circle.h
+
+C:/Users/B5SK/Documents/UC Merced/Courses/CSE165/Lab7 - Inheritance/circles.cpp
+iostream
+-
+Circle.h
+C:/Users/B5SK/Documents/UC Merced/Courses/CSE165/Lab7 - Inheritance/Circle.h
+
