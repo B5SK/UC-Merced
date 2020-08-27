@@ -5,7 +5,7 @@ of the AES-16 bit encryption.
 <br>
 The most difficult concept to understand was the MixColumns section of the encryption stage.
 <br>
-------
+
 <br>
 FOLDER Lab #1 - mainly consist of test files 
 <br>
